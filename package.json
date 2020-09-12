@@ -54,7 +54,7 @@
     "bignumber.js": "^9.0.0",
     "cbor": "^5.0.1",
     "ethers": "^4.0.40",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "pubsub-js": "^1.7.0"
   }
 }
